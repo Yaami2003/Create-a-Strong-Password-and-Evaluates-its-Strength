@@ -9,7 +9,7 @@ To understand what makes a password strong by testing multiple examples using a 
 | Password | Score | Complexity | Observations |
 |------------------|-------|--------------|--------------------------------------------------|
 | `password123` | 43% | Good | Common pattern, no symbols or uppercase letters. |
-| `@Passw0rd#2025` | 100% | Very Strong | Good length, symbols, numbers, lowercase. |
+| `passwpord12` | 39% | weak | Lacks uppercase and symbols, includes repeated/consecutive lowercase and numbers. |
 | `P@ssw0rd!2025` | 100% | Very Strong | Includes all: uppercase, lowercase, numbers, symbols, middle characters. |
 
 ---
